@@ -115,13 +115,12 @@ main {
   /* border: 2px solid red; */
 }
 
-.project-image {
+.project-image img{
   object-fit: cover;
-  width: 100%;
+  width: 550px;
   height: 500px;
   flex-basis: 50px;
   flex-grow: 2;
-
   /* Debug border */
   /* border: 2px solid black; */
 }
@@ -199,7 +198,7 @@ main {
 }
 
 .about-text p {
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.5;
 }
 
